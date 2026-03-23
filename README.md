@@ -26,4 +26,4 @@ This project aims to identify fake accounts on social media platforms by analyzi
 
 ---
 
-## 📂 Project Structure
+
